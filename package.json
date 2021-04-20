@@ -2,8 +2,9 @@
   "name": "challenge-18",
   "version": "1.0.0",
   "description": "![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/tpgent01/socialnetworkapi#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5"
   }
 }
