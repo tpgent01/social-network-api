@@ -75,7 +75,7 @@ To run on _localhost:3001_, please run command _npm start_ to start the server a
 <p><a href="https://www.npmjs.com/">NPM</a></p>
 <p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
 <p><a href="https://www.mongodb.com/">MongoDB</a></p>
-<p>< a href="https://www.npmjs.com/package/mongoose">Mongoose</a></p>
+<p><a href="https://www.npmjs.com/package/mongoose">Mongoose</a></p>
 
 
 ## 🔐License
