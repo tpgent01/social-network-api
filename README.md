@@ -44,8 +44,17 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 
 ## 🎨Mock-Up
-<br>**The following animation demonstrates the application functionality:**</br>
+<br>**The following animation shows GET routes to return all users and all thoughts being tested in Insomnia Core:**</br>
 <br>![](assets/mock-up.gif)</br>
+
+<br>**The following animation shows GET routes to return a single user and a single thought being tested in Insomnia Core:**</br>
+<br>![](assets/mock-up2.gif)</br>
+
+<br>**The following animation shows the POST, PUT, and DELETE routes for users being tested in Insomnia Core:**</br>
+<br>![](assets/mock-up3.gif)</br>
+
+<br>**The following animation shows the POST and DELETE routes for a user’s friend list being tested in Insomnia Core:**</br>
+<br>![](assets/mock-up4.gif)</br>
 
 
 ## 🔌Installation
